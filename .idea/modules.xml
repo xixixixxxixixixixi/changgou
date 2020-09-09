@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/changgou.iml" filepath="$PROJECT_DIR$/.idea/changgou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/changgou-parent/changgou-gateway/changgou-gateway.iml" filepath="$PROJECT_DIR$/changgou-parent/changgou-gateway/changgou-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/changgou-parent/changgou_parent.iml" filepath="$PROJECT_DIR$/changgou-parent/changgou_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
