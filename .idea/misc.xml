@@ -8,6 +8,13 @@
       <list>
         <option value="$PROJECT_DIR$/changgou_parent/pom.xml" />
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou-parent/changgou-web/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou-parent/changgou-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou-parent/changgou-service/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou-parent/changgou-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou-parent/changgou-common-db/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou-parent/changgou-common/pom.xml" />
       </list>
     </option>
   </component>

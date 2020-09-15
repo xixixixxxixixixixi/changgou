@@ -6,13 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="changgou_parent" />
         <module name="untitled" />
+        <module name="changgou-common-db" />
+        <module name="changgou-eureka" />
+        <module name="changgou-common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="changgou_parent" target="1.5" />
+      <module name="changgou-common" target="1.8" />
+      <module name="changgou-common-db" target="1.8" />
+      <module name="changgou-eureka" target="1.5" />
+      <module name="changgou-gateway" target="1.8" />
+      <module name="changgou-service" target="1.8" />
+      <module name="changgou-service-api" target="1.8" />
+      <module name="changgou-web" target="1.8" />
+      <module name="changgou_parent" target="1.8" />
       <module name="untitled" target="1.5" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="changgou-common" options="-parameters" />
+      <module name="changgou-common-db" options="-parameters" />
+    </option>
   </component>
 </project>
